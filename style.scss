@@ -18,6 +18,7 @@ body {
   font-size: 15px;
   line-height: 1.5em;
   color: rgba(0, 0, 0, 0.6);
+  text-align: center;
 }
 
 h1,
@@ -42,7 +43,8 @@ h2{
   line-height: 1em;
 }
 
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
+.poem-name{
+  font-style: italic;
+  color: black;
+  font-weight: 300;
 }
