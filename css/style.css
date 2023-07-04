@@ -10,11 +10,11 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   font-family: sans-serif;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+  box-shadow: 0 0 30px rgb(0, 0, 0);
   width: 680px;
   max-width: 90%;
   padding: 50px;
-  background-color: rgba(255, 255 ,255, 0.95);
+  background-color: rgba(255, 255, 255, 0.95);
   font-size: 15px;
   line-height: 1.5em;
   color: rgba(0, 0, 0, 0.6);
@@ -29,29 +29,31 @@ h3 {
 }
 
 h1,
-h2{
-  color: #b4411e;
+h2 {
+  color: #3f1d2b;
 }
 
-h1{
+h1 {
   font-size: 38px;
   line-height: 1.2em;
 }
 
-h2{
+h2 {
   font-size: 32px;
   line-height: 1em;
 }
 
-.poem-name{
+.poem-name {
   font-style: italic;
   color: black;
   font-weight: 300;
 }
 
-.redactor-name{
+.redactor-name {
   font-weight: bold;
   margin-top: 40px;
   font-size: x-small;
   text-align: end;
 }
+
+/*# sourceMappingURL=style.css.map */
