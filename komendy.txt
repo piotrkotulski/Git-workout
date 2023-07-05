@@ -1,2 +1,2 @@
-Powinno działać komenda: html-validate "index.html"
-U mnie natomiast działa wyłącznie: npx html-validate "index.html"
+Powinno działać komenda: html-validate "*.html"
+U mnie natomiast działa wyłącznie: npx html-validate "*.html"
